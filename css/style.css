@@ -1,0 +1,22 @@
+.inicio{
+    gap: 20px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.container{
+    display: flex;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: bisque;
+}
+
+.addProduct{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
